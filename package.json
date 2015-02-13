@@ -1,0 +1,30 @@
+{
+  "name": "markdown2pdf",
+  "version": "1.0.0",
+  "description": "Application to automatic convert markdown documents to pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmornati/markdown2pdf.git"
+  },
+  "keywords": [
+    "markdown",
+    "pdf",
+    "document",
+    "converter"
+  ],
+  "author": "Marco Mornati",
+  "license": "GNUv2",
+  "bugs": {
+    "url": "https://github.com/mmornati/markdown2pdf/issues"
+  },
+  "homepage": "https://github.com/mmornati/markdown2pdf",
+  "dependencies": {
+    "markdown-pdf": "~5.1.0",
+    "watch": "~0.13.0",
+    "optimist": "~0.6.1"
+  }
+}
