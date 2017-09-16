@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/mmornati/markdown2pdf",
   "dependencies": {
-    "markdown-pdf": "~5.1.0",
-    "watch": "~0.13.0",
+    "markdown-pdf": "~8.0.0",
+    "watch": "~1.0.2",
     "optimist": "~0.6.1"
   }
 }
