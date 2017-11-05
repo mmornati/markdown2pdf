@@ -1,5 +1,7 @@
 # Markdown 2 PDF Watcher
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mmornati/markdown2pdf.svg)](https://greenkeeper.io/)
+
 This projet uses nodejs [Files Watch](https://github.com/mikeal/watch) to check changes on markdown document.
 If a new document, or a change on an existing one, is detected the basic PDF conversion is executed.
 
