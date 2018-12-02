@@ -24,7 +24,7 @@
   "homepage": "https://github.com/mmornati/markdown2pdf",
   "dependencies": {
     "markdown-pdf": "~9.0.0",
-    "watch": "~1.0.2",
-    "optimist": "~0.6.1"
+    "optimist": "~0.6.1",
+    "watch": "~1.0.2"
   }
 }
